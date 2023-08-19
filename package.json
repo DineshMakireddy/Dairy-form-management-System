@@ -1,0 +1,11 @@
+{
+  "name": "dairy-farm-shop-management-system-project",
+  "version": "1.0.0",
+  "description": "How to run the Dairy Farm Shop Management System Project (DFSMS)\r 1. Download the zip file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "din",
+  "license": "ISC"
+}
